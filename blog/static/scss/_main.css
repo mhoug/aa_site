@@ -1,0 +1,9 @@
+.post h1 {
+  font-family: "Soccer League", serif; }
+  .post h1 a {
+    color: #FCA205; }
+
+@font-face {
+  font-family: 'Soccer League';
+  src: url("../fonts/SoccerLeague.ttf") format("truetype");
+  font-weight: 400; }
